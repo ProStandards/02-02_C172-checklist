@@ -29,7 +29,6 @@ TAKEOFF BRIEFING			COMPLETE
 FLIGHT INSTRUMENTS			CHECKED
 PF/PM ALTIMETER			__.__ / SET
 COMS / NAVS				SET
-PF/PM FLAPS			___°/ CONFIRMED
 
 BEFORE TAKEOFF
 FLIGHT CONTROLS			CHECKED
@@ -74,7 +73,7 @@ FUEL SELECTOR				BOTH
 MIXTURE				SET
 LIGHTS					SET
 COMS / NAVS				SET
-PF/PM ALTIMETER			__.__ / VERIFIED
+PF/PM ALTIMETER			__.__ / SET
 PF/PM SEAT-BELTS			CHECKED
 
 AFTER LANDING
@@ -466,13 +465,12 @@ Nonessential Electrical Equipment 	OFF
 Flight					TERMINATE
 
 END.
-
 
 
 
 
 
-Aircraft Electrical System Failure
+AIRCRAFT ELECTRICAL SYSTEM FAILURE
 
 Operation on Backup Battery
 
@@ -546,7 +544,7 @@ END.
 Navigation Data Failure (VOR/LOC/GS)
 Navigation data failure may be indicated by any or all of the following:
 	
-	Loss of course deviation information on 			ADI
+	Loss of course deviation information on 													ADI
 	Loss of glideslope/glidepath 				information on ADI
 	Loss of bearing pointer on HSI
 
