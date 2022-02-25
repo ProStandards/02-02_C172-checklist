@@ -101,7 +101,7 @@ MIXTURE				IDLE CUT-OFF
 IGNITION SWITCH			OFF
 MASTER SWITCH			OFF
 
-ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
+ENGINE FAILURE AFTER TAKEOFF
 
 AIRSPEED		
 	IF FLAPS UP		 	65 KIAS
@@ -399,6 +399,7 @@ Perform a sideslip to keep the flames away from the fuel tank and cabin, and lan
 
 PRECAUTIONARY LANDING WITH ENGINE POWER →
 
+
 
 ICING
 
@@ -434,7 +435,6 @@ Open left window and, if practical, scrape ice from a portion of the windshield 
 
 Perform a landing approach using a forward slip, if necessary, for improved visibility.
 Approach at 65 to 75 KIAS depending upon the amount of the accumulation.
-
 END.
 
 
@@ -461,7 +461,6 @@ END.
 
 
 AIRCRAFT ELECTRICAL SYSTEM FAILURE
-
 Operation on Backup Battery
 
 Displays equipped with a backup battery will continue to operate after a loss of aircraft electrical power.
@@ -521,7 +520,6 @@ FLIGHT					TERMINATE
 END.
 
 
-
 Synthetic Vision Malfunction
 If the synthetic vision depiction is known or suspected to be inaccurate or malfunctioning:
 
@@ -558,7 +556,8 @@ Flight					terminate
 
 END.	
 
-LOW-VOLTAGE LIGHT ILLUMINATES DURING FLIGHT (Ammeter Indicates Discharge)
+LOW-VOLTAGE LIGHT ILLUMINATES 
+(Ammeter Indicates Discharge)
 
 NOTE
 Illumination of the low-voltage light may occur during low RPM conditions with an electrical load on the system such as during a low RPM taxi. Under these conditions, the light will go out at higher RPM. The master switch need not be recycled since an over-voltage condition has not occurred to de-activate the alternator system.
@@ -580,9 +579,10 @@ AIRCRAFT ELECTRICAL SYSTEM FAILURE →
 
 
 ADC Failure
+
 ADC failure is indicated by:
 
-	Red X over the airspeed and altitude 			tapes
+	Red X over the airspeed and altitude 														tapes
 	Yellow X over the digital vertical speed 			value
 
 STANDBY INSTRUMENTS		REFERENCE
@@ -590,13 +590,12 @@ NAVIATION SOURCES			REFERENCE
 FLIGHT CONDITIONS			VFR
 FLIGHT					TERMINATE
 
-	If valid GPS data is available:
-	the GI 275 will automatically revert to 			display GPS-calculated altitude relative to mean sea level. GPS altitude is displayed in magenta, in the same location as normal operation.
+CONTINUE →	
+If valid GPS data is available:
+	
+the GI 275 will automatically revert to 			display GPS-calculated altitude relative to mean sea level. GPS altitude is displayed in magenta, in the same location as normal operation.
 
 END.
-
-
-
 
 ATTITUDE, ALT, or IAS monitor CAUTION
 If an ATTITUDE, ALT, or IAS miscompare CAUTION is displayed in yellow on the attitude display or airspeed/altitude tape:
