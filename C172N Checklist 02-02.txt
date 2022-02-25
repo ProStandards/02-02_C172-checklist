@@ -192,7 +192,7 @@ MASTER SWITCH			OFF
 
 END.
 
-ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
+ENGINE FAILURE AFTER TAKEOFF
 AIRSPEED		
 	IF FLAPS UP		 	65 KIAS
 	IF FLAPS DOWN			60 KIAS
@@ -340,9 +340,7 @@ Airspeed				100 KIAS
 	If fire is not extinguished 
 	increase glide speed to find an airspeed 			which will provide an incombustible
 	mixture.
-
 	IF FIRE IS EXTINGUISHED
-
 Forced Landing			EXECUTE 
 
 EMERGENCY LANDING WITHOUT ENGINE POWER →
@@ -656,7 +654,7 @@ Exceeding these values may delay or prevent AHRS alignment.
 
 END.
 
-ANNUNCIATIONS
+ANNUNCIATION INDEX
 
 
 
